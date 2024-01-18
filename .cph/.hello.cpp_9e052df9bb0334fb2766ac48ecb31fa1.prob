@@ -1,0 +1,1 @@
+{"name":"Local: hello","url":"/home/vishal/VSCode/hello.cpp","tests":[{"id":1688133712339,"input":"3\n4\n4\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/VSCode/hello.cpp","group":"local","local":true}
